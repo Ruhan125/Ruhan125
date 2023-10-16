@@ -1,7 +1,7 @@
 [![MasterHead](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)
 <h1 align="center">Hi 👋, I'm Ruhan</h1>
 <h3 align="center">A passionate frontend developer and designer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=2500w">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/363821/screenshots/3329508/media/c6bcd3e0db9e5d03fa06c3aef5d5ef2f.gif">
 
 - 🌱 I’m currently learning **Flutter , Canva , Figma**
 
